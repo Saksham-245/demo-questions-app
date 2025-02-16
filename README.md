@@ -192,7 +192,3 @@ demo-questions-app/
 3. Commit your changes: `git commit -m 'Add YourFeature'`
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
